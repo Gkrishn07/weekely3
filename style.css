@@ -1,0 +1,12 @@
+.nav-item{
+width: 136px;
+height: 39px;;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+margin: 10px;
+
+}
+.gallery{
+    position: absolute;
+    top: 150px;
+}
